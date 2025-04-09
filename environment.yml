@@ -1,0 +1,18 @@
+name: GEFS_plot
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10.16
+  - cartopy=0.24.0
+  - cfgrib=0.9.15.0
+  - herbie-data=2025.3.1
+  - ipykernel=6.29.5
+  - ipython=8.30.0
+  - jupyterlab=4.3.4
+  - matplotlib=3.10.1
+  - matplotlib-base=3.10.1
+  - matplotlib-inline=0.1.6
+  - numpy=2.2.4
+  - pandas=2.2.3
+  - xarray=2025.3.1
